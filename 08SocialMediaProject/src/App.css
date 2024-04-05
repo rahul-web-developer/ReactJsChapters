@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.container{
+  display: flex;
+  /* flex-direction: column; */
+}
+
+.content{
+  width: 100%;
+ 
+}
+
+.sidebar{
+  min-height: 800px;
+  background: black;
+}
+
+.post-card{
+  background: black;
+
+  color: white;
+  margin-top: 5px;
+  padding: 5px;
+  text-transform: capitalize;
+  min-width: 30rem;
+}
+
+.badg{
+  margin-right: 3px;
+}
+
+.reactions{
+width: 100%;
+}
+
+.create-post{
+
+  width: 50%;
+  margin-top: 50px;
+  margin-left: 10%;
+
+}
+
