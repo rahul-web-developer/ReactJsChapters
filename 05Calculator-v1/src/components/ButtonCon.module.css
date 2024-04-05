@@ -1,0 +1,21 @@
+.btncon{
+  display: flex;
+justify-content: center;
+
+flex-wrap: wrap;
+
+width: 100%;
+
+}
+
+
+.classbtn{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  font-weight: bold;
+  border-radius: 50%;
+  cursor: pointer;
+  /* box-shadow: 0 0 15px rgba(201, 28, 28, 0.3);
+   */
+}
