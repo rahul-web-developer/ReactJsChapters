@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #000;
+  color: white;
+}
+
+.kg-item{
+  background: khaki;
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+}
+
+button{
+  padding: 10px 12px;
+  border: 1px solid black;
+  border-radius: 50%;
+  font-weight: bold;
+  
+}
+
+.span{
+  font-weight: 600;
+  font-family: sans-serif;
+  color: orangered;
+
+}
+
